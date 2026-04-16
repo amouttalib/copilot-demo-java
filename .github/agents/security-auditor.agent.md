@@ -1,9 +1,7 @@
 ---
 name: Security Auditor
 description: Analyse les vulnérabilités de sécurité d’un projet Java.
-tools:
-  - read
-  - search
+tools: ['create_file', 'open_file', 'read_file']
 ---
 
 ## Rôle

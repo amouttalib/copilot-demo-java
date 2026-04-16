@@ -1,9 +1,7 @@
 ---
 name: Technical Architect
 description: Analyse l’architecture et la dette technique d’un projet.
-tools:
-  - read
-  - search
+tools: ['create_file', 'open_file', 'read_file']
 ---
 
 ## Rôle
